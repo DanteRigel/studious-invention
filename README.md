@@ -1,3 +1,3 @@
 # studious-invention
 
-<DanteRigel-A>, <DafneCarp-B>, <AgustinaChiozza-C>
+<BrianAlarcón-A>, <DafneCarp-B>, <AgustinaChiozza-C>
